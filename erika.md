@@ -1,10 +1,6 @@
-## Llewellyn's
+## Erika's
 
-* [Blog](http://llewellynfalco.blogspot.com/)
-* [ApprovalTests](https://github.com/approvals/)
-* [YouTube](https://www.youtube.com/user/isidoreus/videos)
-* [Twitch](https://www.twitch.tv/llewellynfalco)
-* [Learn With Llew](https://github.com/LearnWithLlew)
+* [Website](http://erikalenz.com/)
 
-I'm a Technical Agile Coach. You can [hire me](http://llewellynfalco.blogspot.com/p/hire-me.html)
+I'm an Agile Coach. You can [hire me] (http://erikalenz.com/)
 
